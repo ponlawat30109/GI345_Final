@@ -858,7 +858,7 @@ MonoBehaviour:
     minPosition: {x: 7, y: 7}
     maxPosition: {x: 10, y: 10}
     obligatory: 0
-  offset: {x: 20, y: 20}
+  offset: {x: 15, y: 15}
 --- !u!4 &1956927236
 Transform:
   m_ObjectHideFlags: 0
