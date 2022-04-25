@@ -848,14 +848,14 @@ MonoBehaviour:
   rooms:
   - room: {fileID: 5847821001151363503, guid: 4fc046b7877d47f439c497a7a8f3a27b, type: 3}
     minPosition: {x: 0, y: 0}
-    maxPosition: {x: 5, y: 5}
-    obligatory: 1
+    maxPosition: {x: 10, y: 10}
+    obligatory: 0
   - room: {fileID: 5847821001151363503, guid: 0a19f8ecf159f1940b9cf41a9ffbf06a, type: 3}
-    minPosition: {x: 5, y: 5}
-    maxPosition: {x: 7, y: 7}
+    minPosition: {x: 1, y: 1}
+    maxPosition: {x: 10, y: 10}
     obligatory: 0
   - room: {fileID: 5847821001151363503, guid: 95d8156f3d5131f439e9524221c6fd45, type: 3}
-    minPosition: {x: 7, y: 7}
+    minPosition: {x: 1, y: 1}
     maxPosition: {x: 10, y: 10}
     obligatory: 0
   offset: {x: 15, y: 15}
