@@ -98,6 +98,8 @@ namespace StarterAssets
 			JumpAndGravity();
 			GroundedCheck();
 			Move();
+			
+			// if(_input.)
 		}
 
 		private void LateUpdate()
